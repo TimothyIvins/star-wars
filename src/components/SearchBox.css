@@ -1,0 +1,7 @@
+input.searchbox {
+    color: rgba(255,215,0,1);
+    background-color: transparent;
+}
+input.searchbox:focus {
+    outline-width: 0;
+}
